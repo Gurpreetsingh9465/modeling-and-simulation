@@ -1,0 +1,10 @@
+
+1. Simulation of Single Server Queuing System in C/C++/MATLAB (One Operator Barber Shop)
+2. Simulation of Multiple Servers Multiple Queues in C/C++/MATLAB (Banking System)
+3. Simulation of Inventory Management System in C/C++/MATLAB
+4. Simulation of Job shop Model in C/C++/MATLAB
+5. Simulation of Time Shared Computer Model in C/C++/MATLAB
+6. Generation of Random Numbers using Mid Square Method, Congruence Method (Mixed, Multiplicative and Additive) and Arithmetic Congruence Method in C/C++/MATLAB
+7. Testing Numbers for Randomness using Chi Square Test for Uniformity and Auto Correlation in C/C++/MATLAB
+8. Generation of Random Variates following different discrete and Continuous distributions in C/C++/MATLAB
+Note: Students can write regarding these experiments on Practical Notebook of Modeling and Simulation Lab

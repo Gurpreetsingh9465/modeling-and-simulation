@@ -1,0 +1,10 @@
+$(document).ready(function() {
+  $("#show-quote").on("click", function(event) {
+    $.getJSON("https://random-quote-generator.herokuapp.com/api/quotes/random",
+             function(data) {
+      $(".quoteItself").html(data.quote);
+      $(".whoSaidThis").html(data.author);
+      $("#show-quote").html("Press for another quote");
+    });
+  });
+});
